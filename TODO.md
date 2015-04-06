@@ -13,7 +13,7 @@
 - [ ] Initial content
   - [x] Nav
   - [x] Banner
-  - [ ] Services
+  - [x] Services
   - [ ] Testemonials
   - [ ] Before & After
   - [ ] Why special
