@@ -11,8 +11,8 @@
   - [x] Team
   - [x] Contact
 - [ ] Initial content
-  - [ ] Nav
-  - [ ] Banner
+  - [x] Nav
+  - [x] Banner
   - [ ] Services
   - [ ] Testemonials
   - [ ] Before & After
@@ -35,3 +35,5 @@
           neighbourhood - discount if neighbours sign up too
           pet friendly
 - [ ] Online booking functionality
+- [ ] Add ids and links to them in page sections
+- [ ] Move all inline styling to css - use new css to override
