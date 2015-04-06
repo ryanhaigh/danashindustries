@@ -1,6 +1,6 @@
 # todo
 
-- [ ] Import html5up alpha template
+- [x] Import html5up alpha template
 - [ ] Create basic structure
   - [ ] Nav
   - [ ] Banner
