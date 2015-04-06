@@ -1,16 +1,15 @@
 # todo
 
 - [x] Import html5up alpha template
-- [ ] Create basic structure
-  - [ ] Nav
-  - [ ] Banner
-  - [ ] Services
-  - [ ] Testemonials
-  - [ ] Before & After
-  - [ ] Why special
-  - [ ] Team
-  - [ ] Contact
-  - [ ] Social
+- [x] Create basic structure
+  - [x] Nav
+  - [x] Banner
+  - [x] Services
+  - [x] Testemonials
+  - [x] Before & After
+  - [x] Why special
+  - [x] Team
+  - [x] Contact
 - [ ] Initial content
   - [ ] Nav
   - [ ] Banner
