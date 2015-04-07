@@ -23,7 +23,7 @@
 - [x] Change font-awesome icons
 - [ ] Images
   - [ ] Add logo to banner
-  - [ ] Banner background
+  - [x] Banner background
   - [ ] Before & After photos
   - [ ] Team photos
 - [ ] Additional pages/content
@@ -38,8 +38,10 @@
 - [x] Add ids and links to them in page sections + contact section
 - [ ] Move all inline styling to css - use new css to override
 - [ ] Make fonts available locally
-- [ ] Remove horizontal line from testemonials
+- [x] Remove horizontal line from testemonials
 - [ ] Additional social media/exterior service links
 - [ ] Links from nav to sections of page
-- [ ] Remove dividing lines from services section
-- [ ] Testemonial as blockquote
+- [x] Remove dividing lines from services section
+- [x] Testemonial as blockquote
+- [ ] Fix padding on why special section
+

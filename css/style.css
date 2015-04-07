@@ -119,6 +119,7 @@
 		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
+		font-size: 1.5em;
 	}
 
 	pre {
@@ -441,6 +442,10 @@
 				float: left;
 				padding: 3em;
 				width: 50%;
+			}
+			
+			.box.features .row section {
+			  padding: 3em;
 			}
 
 				.box.features .features-row section :last-child {
