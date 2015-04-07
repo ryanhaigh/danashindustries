@@ -14,12 +14,12 @@
   - [x] Nav
   - [x] Banner
   - [x] Services
-  - [ ] Testemonials
-  - [ ] Before & After
-  - [ ] Why special
-  - [ ] Team
-  - [ ] Contact
-  - [ ] Social
+  - [x] Testemonials
+  - [x] Before & After
+  - [x] Why special
+  - [x] Team
+  - [x] Contact
+  - [x] Social
 - [ ] Change font-awesome icons
 - [ ] Images
   - [ ] Add logo to banner
@@ -35,5 +35,8 @@
           neighbourhood - discount if neighbours sign up too
           pet friendly
 - [ ] Online booking functionality
-- [ ] Add ids and links to them in page sections
+- [ ] Add ids and links to them in page sections + contact section
 - [ ] Move all inline styling to css - use new css to override
+- [ ] Make fonts available locally
+- [ ] Remove horizontal line from testemonials
+- [ ] Additional social media/exterior service links
