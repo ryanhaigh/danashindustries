@@ -46,5 +46,5 @@
 - [ ] Fix padding on why special section
 - [ ] Move css edits to override file if possible
 - [x] Font weight for left nav in span not a tag
-- [ ] Fix why special not rearranging on mobile
+- [x] Fix why special not rearranging on mobile
 
