@@ -41,3 +41,5 @@
 - [ ] Remove horizontal line from testemonials
 - [ ] Additional social media/exterior service links
 - [ ] Links from nav to sections of page
+- [ ] Remove dividing lines from services section
+- [ ] Testemonial as blockquote

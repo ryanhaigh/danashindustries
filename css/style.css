@@ -427,7 +427,7 @@
 		}
 
 		.box.features .features-row {
-			border-top: solid 2px #e5e5e5;
+			/* border-top: solid 2px #e5e5e5; */
 			position: relative;
 		}
 
@@ -452,7 +452,7 @@
 				}
 
 					.box.features .features-row section:nth-child(2n):before {
-						background: #e5e5e5;
+						/* background: #e5e5e5; */
 						content: '';
 						display: block;
 						height: 100%;
