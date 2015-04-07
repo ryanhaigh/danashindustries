@@ -47,4 +47,4 @@
 - [ ] Move css edits to override file if possible
 - [x] Font weight for left nav in span not a tag
 - [x] Fix why special not rearranging on mobile
-
+- [x] Fix link to defyantmedia
