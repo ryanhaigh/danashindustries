@@ -10,7 +10,7 @@
   - [x] Why special
   - [x] Team
   - [x] Contact
-- [ ] Initial content
+- [x] Initial content
   - [x] Nav
   - [x] Banner
   - [x] Services
@@ -20,7 +20,7 @@
   - [x] Team
   - [x] Contact
   - [x] Social
-- [ ] Change font-awesome icons
+- [x] Change font-awesome icons
 - [ ] Images
   - [ ] Add logo to banner
   - [ ] Banner background
