@@ -49,3 +49,4 @@
 - [x] Fix why special not rearranging on mobile
 - [x] Fix link to defyantmedia
 - [x] Fix links to contact/cta section
+- [x] Fix link to defyantmedia - add http://
