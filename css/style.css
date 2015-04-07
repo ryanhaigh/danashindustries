@@ -1016,8 +1016,12 @@
 
 			#header h1 a {
 				color: #fff;
-				font-weight: 400;
+				/* font-weight: 400;*/
 				border: 0;
+			}
+			
+			#header h1 span {
+			  font-weight: 400;
 			}
 
 		#header nav {
@@ -1250,6 +1254,10 @@
 			margin: 0 0 0.5em 0;
 			padding: 0;
 		}
+		
+		  #banner h2 span {
+		    font-weight: 400;
+		  }
 
 		#banner p {
 			font-size: 1.25em;

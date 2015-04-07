@@ -36,7 +36,7 @@
           pet friendly
 - [ ] Online booking functionality
 - [x] Add ids and links to them in page sections + contact section
-- [ ] Move all inline styling to css - use new css to override
+- [x] Move all inline styling to css
 - [ ] Make fonts available locally
 - [x] Remove horizontal line from testemonials
 - [ ] Additional social media/exterior service links
@@ -44,4 +44,7 @@
 - [x] Remove dividing lines from services section
 - [x] Testemonial as blockquote
 - [ ] Fix padding on why special section
+- [ ] Move css edits to override file if possible
+- [x] Font weight for left nav in span not a tag
+- [ ] Fix why special not rearranging on mobile
 
