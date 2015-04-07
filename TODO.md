@@ -40,10 +40,10 @@
 - [ ] Make fonts available locally
 - [x] Remove horizontal line from testemonials
 - [ ] Additional social media/exterior service links
-- [ ] Links from nav to sections of page
+- [x] Links from nav to sections of page
 - [x] Remove dividing lines from services section
 - [x] Testemonial as blockquote
-- [ ] Fix padding on why special section
+- [x] Fix padding on why special section
 - [ ] Move css edits to override file if possible
 - [x] Font weight for left nav in span not a tag
 - [x] Fix why special not rearranging on mobile
