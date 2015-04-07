@@ -22,7 +22,7 @@
   - [x] Social
 - [x] Change font-awesome icons
 - [ ] Images
-  - [ ] Add logo to banner
+  - [x] Add logo to banner
   - [x] Banner background
   - [ ] Before & After photos
   - [ ] Team photos
